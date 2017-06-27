@@ -1,10 +1,8 @@
-# Webpack 中文指南
+# Webpack
 
-[![Join the chat at https://gitter.im/zhaoda/webpack-handbook](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zhaoda/webpack-handbook?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [Webpack](https://github.com/webpack/webpack) 是当下最热门的前端资源模块化管理和打包工具。它可以将许多松散的模块按照依赖和规则打包成符合生产环境部署的前端资源。还可以将按需加载的模块进行代码分隔，等到实际需要的时候再异步加载。通过 `loader` 的转换，任何形式的资源都可以视作模块，比如 CommonJs 模块、 AMD 模块、 ES6 模块、CSS、图片、 JSON、Coffeescript、 LESS 等。
 
-[主站](http://zhaoda.net/webpack-handbook) · [下载电子版](https://www.gitbook.com/book/zhaoda/webpack/details)
 
 ## 贡献内容
 
@@ -59,13 +57,3 @@ $ npm run deploy-wiki
 $ npm run generate-and-deploy
 
 ```
-
-## 更新日志
-
-[https://github.com/zhaoda/webpack-handbook/commits/master](https://github.com/zhaoda/webpack-handbook/commits/master)
-
-## 版权许可
-
-<p>
-  <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Webpack 中文指南</span> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="http://zhaoda.net/webpack-handbook" property="cc:attributionName" rel="cc:attributionURL">赵达</a> 创作，采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享 署名-非商业性使用 4.0 国际 许可协议</a>进行许可。
-</p>
