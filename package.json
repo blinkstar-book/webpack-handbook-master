@@ -14,22 +14,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "https://github.com/zhaoda/webpack-handbook.git"
+    "type": "git"
   },
   "keywords": [
     "webpack"
   ],
-  "author": {
-    "name": "zhaoda",
-    "email": "zd6437@gmail.com",
-    "url": "http://zhaoda.net"
-  },
-  "license": "CC-BY-NC-4.0",
-  "bugs": {
-    "url": "https://github.com/zhaoda/webpack-handbook/issues"
-  },
-  "homepage": "https://github.com/zhaoda/webpack-handbook",
   "dependencies": {
     "async": "^2.4.0",
     "fs-extra": "^3.0.0",
